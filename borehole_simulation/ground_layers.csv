@@ -1,0 +1,9 @@
+Layer name,depth [m],Thickness [m],Conductivity [W/m.K],Diffusivity [m2/s],RhoCp [J/m3.K],Temperature [Celsius]
+US/RBC_11-14 Formations quaternaires indifférenciées,0,2.9,1.9,0.00000095,2.3,12.5
+US/RBC_42 Sables de Lede,2.9,0.7,1.65,0.00000115,2.4,12.5
+US/RBC_43 Sables de Bruxelles,3.6,32.4,1.65,0.0000011,2.45,12.5
+US/RBC_43 Sables de Bruxelles,36,25.5,2.6,0.0000011,2.45,12.5
+US/RBC_72 Sables et argiles de Kortrijk (membre de Moen),61.5,30.6,2.1,0.00000075,2.4,12.5
+US/RBC_73 Argiles de Kortrijk (membre de Saint Maur),92.1,7.7,1.45,0.00000065,2.45,12.5
+US/RBC_82 Argiles de Hannut (Membre de Lincent),99.8,20.2,2.05,0.0000006,2.5,12.5
+US/RBC_92 Socle Paleozoique,120,,1.9,0.00000135,2.35,12.5

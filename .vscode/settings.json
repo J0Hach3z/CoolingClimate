@@ -1,0 +1,31 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
+
+    // Set default working directory for terminals
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    
+    // Jupyter-specific settings
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.kernels.excludePythonEnvironments": [],
+    
+    // Python-specific settings for interactive window
+    "python.terminal.executeInFileDir": false,
+    
+    // For Jupyter interactive window
+    "jupyter.interactiveWindow.cwd": "${workspaceFolder}",
+    
+    // For notebook execution
+    "jupyter.runStartupCommands": [
+        "%cd \"${workspaceFolder}\""
+    ],
+    
+    // Optional: For notebook trust
+    "jupyter.askForKernelRestart": false,
+    
+    // Alternative: Use environment variable approach
+    "jupyter.kernelEnv": {
+        "VSCODE_CWD": "${workspaceFolder}"
+    }
+}

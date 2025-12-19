@@ -1,0 +1,8 @@
+SIMULATION SUMMARY
+============================================================
+Number of boreholes: 90
+Effective thermal conductivity: 2.027 W/m.K
+Effective thermal diffusivity: 8.94e-07 m2/s
+Total simulation time: 8760 hours (1.0 years)
+Peak heat load: 1299967 W (heating)
+Peak cooling load: 899968 W (cooling)
